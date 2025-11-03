@@ -7,7 +7,7 @@
 
 A real-time computer vision app that uses **human body motion** to **control video playback** using **Ultralytics YOLOv8 Pose Estimation**.
 
-[![YOLO Pose Video Control](https://github.com/aabbas77-web/yolo_pose_video_control/blob/main/images/sport.jpg)](https://www.youtube.com/watch?v=1YA97DTbKZ4)
+[![YOLO Pose Video Control](https://github.com/aabbas77-web/yolo_pose_video_control/blob/main/images/VirtualSport.png)](https://www.youtube.com/watch?v=1YA97DTbKZ4)
 
 ![image alt](https://github.com/aabbas77-web/yolo_pose_video_control/blob/main/images/motorcycle.jpg)<br/>
 
