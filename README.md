@@ -42,6 +42,8 @@ Instead of using a keyboard or controller, your *motion* drives the video.
 🎥 **Video Source:**
 All running videos are courtesy of [Virtual Running Video](https://www.youtube.com/@virtualrunningvideo)
 
+https://www.youtube.com/watch?v=DQBCdbV2Enc&t=37s
+
 🔧 **Tech Stack:**
 `Python`, `OpenCV`, `Ultralytics YOLOv8`, `NumPy`
 
