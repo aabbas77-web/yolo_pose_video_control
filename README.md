@@ -3,7 +3,7 @@
 # By Dr. Ali Abbas aabbas7@gmail.com
 # Programming Language: Python
 
-# 🎥 YOLO Pose Video Control
+# 🎥 YOLO Pose Video Control (Sports - Virtual Running)
 
 A real-time computer vision app that uses **human body motion** to **control video playback** using **Ultralytics YOLOv8 Pose Estimation**.
 Practice walking exercises at home as if you were walking in nature, using only a webcam.
