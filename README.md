@@ -1,11 +1,12 @@
 ![image alt](https://github.com/aabbas77-web/AliSoft/blob/main/AliSoft128Transparent.png)
-# [AliSoft](https://hodhods.com) YOLO Pose Video Control
+# [AliSoft](https://hodhods.com) YOLO Pose Video Control (Sports - Virtual Running)
 # By Dr. Ali Abbas aabbas7@gmail.com
 # Programming Language: Python
 
 # 🎥 YOLO Pose Video Control
 
 A real-time computer vision app that uses **human body motion** to **control video playback** using **Ultralytics YOLOv8 Pose Estimation**.
+Practice walking exercises at home as if you were walking in nature, using only a webcam.
 
 [![YOLO Pose Video Control](https://github.com/aabbas77-web/yolo_pose_video_control/blob/main/images/VirtualSport.png)](https://www.youtube.com/watch?v=1YA97DTbKZ4)
 
